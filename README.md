@@ -1,24 +1,24 @@
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
-yarn start
+yarn start<br/>
   Starts the development server so you can open your app in the Expo
   app on your phone.
 
-yarn run ios
+yarn run ios<br/>
   (Mac only, requires Xcode)
   Starts the development server and loads your app in an iOS simulator.
 
-yarn run android
+yarn run android<br/>
   (Requires Android build tools)
   Starts the development server and loads your app on a connected Android
   device or emulator.
 
 
-yarn test
+yarn test<br/>
   Starts the test runner.
 
-yarn run eject
+yarn run eject<br/>
   Removes this tool and copies build dependencies, configuration files
   and scripts into the app directory. If you do this, you can’t go back!
 
