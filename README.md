@@ -2,8 +2,7 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 yarn start<br/>
-  Starts the development server so you can open your app in the Expo
-  app on your phone.
+  Starts the development server so you can open your app in the Expo app on your phone.
 
 yarn run ios<br/>
   (Mac only, requires Xcode)
